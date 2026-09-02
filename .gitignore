@@ -1,0 +1,15 @@
+# 日志与临时文件
+server.log
+.serve.log
+_verify.py
+serve.py
+
+# 本地脚本
+启动网站.bat
+
+# 打包文件
+*.zip
+
+# 系统文件
+Thumbs.db
+Desktop.ini
